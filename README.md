@@ -18,7 +18,6 @@ HTML · CSS · JavaScript · Python · Bootstrap · Git
 <td align="right" width="30%">
 
 <img src="./download.gif" width="200" >
-<img display  style="display: block; margin-left: auto; margin-right: auto; width: 50%;>
 
 
 </td>
