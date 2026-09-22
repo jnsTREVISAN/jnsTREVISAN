@@ -1,16 +1,25 @@
-## Hi there 👋
+<table>
+<tr>
+<td valign="top" width="70%">
 
-<!--
-**jnsTREVISAN/jnsTREVISAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan!
 
-Here are some ideas to get you started:
+### 🌷 about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+୨୧ Estudante de Desenvolvimento de Sistemas  
+୨୧ Aprendendo programação e desenvolvimento web  
+୨୧ Criando projetos enquanto aprendo 𝄞𝄢
+
+### 💻 currently learning
+
+HTML · CSS · JavaScript · Python · Bootstrap · Git
+
+</td>
+
+<td align="right" width="30%">
+
+<img src="./download.gif" width="200">
+
+</td>
+</tr>
+</table>
