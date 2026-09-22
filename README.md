@@ -12,10 +12,9 @@
 ### 💻 currently learning
 
 HTML · CSS · JavaScript · Python · Bootstrap · Git
-
+ <td width="30%" align="right" valign="top"> <img src="./download.gif" width="200"> 
 </td>
 
-<td align="right" width="30%">
 
 <img src="./download.gif" width="200" >
 
