@@ -16,8 +16,3 @@ HTML · CSS · JavaScript · Python · Bootstrap · Git
 </td>
 
 
-<img src="./download.gif" width="200" >
-
-
-</td>
-
