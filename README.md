@@ -1,7 +1,7 @@
 
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan!
-<img align="right" src="./download.gif" width="280">
+<img align="right" src="./download.gif" width="200">
 ### 🌷 about me
 
 ୨୧ Estudante de Desenvolvimento de Sistemas  
