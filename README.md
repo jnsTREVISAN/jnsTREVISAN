@@ -1,9 +1,9 @@
 
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan!
-
-### 🌷 about me
 <img align="right" src="./download.gif" width="280">
+### 🌷 about me
+
 ୨୧ Estudante de Desenvolvimento de Sistemas  
 ୨୧ Aprendendo programação e desenvolvimento web  
 ୨୧ Criando projetos enquanto aprendo 𝄞𝄢
