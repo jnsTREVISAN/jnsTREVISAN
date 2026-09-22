@@ -1,5 +1,4 @@
-<table>
-<tr>
+
 <td valign="top" width="70%">
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan!
@@ -21,5 +20,4 @@ HTML · CSS · JavaScript · Python · Bootstrap · Git
 <img src="./download.gif" width="200">
 
 </td>
-</tr>
-</table>
+
