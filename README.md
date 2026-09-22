@@ -1,5 +1,6 @@
+<br>
 
-<img align="right" src="./download.gif" width="200">
+<img align="right" src="./download.gif" width="280">
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan!
 
@@ -12,5 +13,3 @@
 ### 💻 currently learning
 
 HTML · CSS · JavaScript · Python · Bootstrap · Git
-
-
