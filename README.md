@@ -15,7 +15,7 @@ HTML · CSS · JavaScript · Python · Bootstrap · Git
 
 </td>
 
-<td align="right" width="30%">
+<text align="right" width="30%">
 
 <img src="./download.gif" width="200">
 
