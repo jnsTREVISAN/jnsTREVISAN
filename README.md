@@ -1,5 +1,5 @@
 
-<td valign="top" width="70%">
+<img align="right" src="./download.gif" width="200">
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan!
 
@@ -12,7 +12,5 @@
 ### 💻 currently learning
 
 HTML · CSS · JavaScript · Python · Bootstrap · Git
- <td width="30%" align="right" valign="top"> <img src="./download.gif" width="200"> 
-</td>
 
 
