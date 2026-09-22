@@ -12,4 +12,4 @@
 
 HTML · CSS · JavaScript · Python · Bootstrap · Git
 
-<img align="right" src="./download.gif" width="280">
+<img align="right" src="./download.gif" width="200">
