@@ -2,13 +2,13 @@
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan! <br>
 <img align="right" src="./download.gif" width="200">
-🥝 About me <br> <br>
+🥝 About me: <br> <br>
 
 𝄞𝄢 Estudante de Desenvolvimento de Sistemas  
 𝄞𝄢 Aprendendo programação e desenvolvimento web  
 𝄞𝄢 Criando projetos enquanto aprendo
 
-### 💻 currently learning
+### 💻 currently learning:
 <br>
 
 <p>
