@@ -2,13 +2,14 @@
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan! <br>
 <img align="right" src="./download.gif" width="200">
-ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧   About me <br> <br>
+🥝 About me <br> <br>
 
 𝄞𝄢 Estudante de Desenvolvimento de Sistemas  
 𝄞𝄢 Aprendendo programação e desenvolvimento web  
 𝄞𝄢 Criando projetos enquanto aprendo
 
 ### 💻 currently learning
+<br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
