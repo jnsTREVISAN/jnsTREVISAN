@@ -1,7 +1,7 @@
 
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan! <br>
-<img align="right" src="./pixels and things.gif" width="290">
+<img align="right" src="./pixels and things.gif" width="330">
 🥝 About me: <br> <br>
 
 𝄞𝄢 Estudante de Desenvolvimento de Sistemas  
