@@ -2,7 +2,7 @@
 
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan! <br>
 <img align="right" src="./download.gif" width="200">
-ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧   About me <br>
+ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧   About me <br> <br>
 
 𝄞𝄢 Estudante de Desenvolvimento de Sistemas  
 𝄞𝄢 Aprendendo programação e desenvolvimento web  
