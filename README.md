@@ -1,8 +1,8 @@
 
 
-# ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan!
+# ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ hi, i'm Jonathan! <br>
 <img align="right" src="./download.gif" width="200">
-### ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ about me
+ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧   About me <br>
 
 𝄞𝄢 Estudante de Desenvolvimento de Sistemas  
 𝄞𝄢 Aprendendo programação e desenvolvimento web  
